@@ -23,7 +23,7 @@ Zu Beginn der Lernperiode konzentriere ich mich vor allem auf Animationen, kreat
 
 ## 27.02.26 – Arbeitspakete
 
-- Erste Praktikumsanschreiben vorbereiten  
+- Praktikumsanschreiben vorbereiten  
 - Bestehende Animationen verbessern oder erweitern  
 - Kreative Arbeiten für das Portfolio ordnen  
 
@@ -42,5 +42,5 @@ Zu Beginn der Lernperiode konzentriere ich mich vor allem auf Animationen, kreat
 ## 20.03.26 – Arbeitspakete
 
 - Lernperiode auswerten und Fortschritte festhalten  
-- Nächste Schritte für **Swyte** definieren  
+- Nächste Schritte für Swyte definieren  
 - Neue Ziele für Schule, Projekte und Portfolio setzen  
